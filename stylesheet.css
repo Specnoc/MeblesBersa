@@ -1,0 +1,11 @@
+imagen{
+    height: 60px;
+    width: auto;
+}
+header{
+    background-color: rgb(26, 16, 5);
+    height: 100px;
+}
+body{
+    background-color: beige;
+}
